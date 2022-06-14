@@ -2,7 +2,6 @@
 
 use crate::{PhotonImage, Rgb};
 use image::{DynamicImage, ImageBuffer};
-extern crate wasm_bindgen;
 use image::DynamicImage::ImageRgba8;
 
 /// Gets the square distance between two colours

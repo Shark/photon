@@ -3,7 +3,6 @@
 use image::Pixel;
 use image::{GenericImage, GenericImageView};
 use rand::Rng;
-// use wasm_bindgen::prelude::*;
 use crate::helpers;
 use crate::iter::ImageIterator;
 use crate::PhotonImage;
